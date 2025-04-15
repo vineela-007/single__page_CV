@@ -7,6 +7,7 @@ This is a personal portfolio CV web page built using semantic HTML, optimized wi
 🔗 [View Resume](http://127.0.0.1:5500/Resume.html)  
 > _(Note: This is a local URL. Please upload the project to GitHub Pages or a hosting service for public access.)_
 
+https://roadmap.sh/projects/single-page-cv
 👩‍💻 Author
 Pallapu Vineela
 Lecturer in Computer Science
